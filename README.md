@@ -2,4 +2,4 @@ This is the code for Math 559 final project paper: Exploiting SO(2) Rotational S
 
 Make sure download all the codes. The easy way is just clone this repo. 
 
-To replicate the results in paper, simply just run the Final project notebook code. 
+To replicate the results in paper, simply just run the Final project notebook code.ipynb will be fine. 
